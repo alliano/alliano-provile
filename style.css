@@ -68,7 +68,7 @@ header{
     /* border: 1px solid black; */ 
 }
 footer{
-    height: 20%;
+    height: max-content;
     display: flex;
     align-items: center;
     justify-content: center;
