@@ -78,3 +78,15 @@ footer{
     /* border: 1px solid black; */
 }
 
+
+/* breakpoint mobile */
+
+@media only screen and (min-width:320px) and (max-width:480px) {
+
+    .keahlian{
+        /* background-color: aquamarine; */
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
