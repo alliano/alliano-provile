@@ -69,7 +69,11 @@ header{
 }
 footer{
     display: flex;
-    margin-top: 5px;
+    align-items: center;
     justify-content: center;
+}
+.footer{
+    margin-top: 15px;
+    /* border: 1px solid black; */
 }
 
